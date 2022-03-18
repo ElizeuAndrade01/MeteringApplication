@@ -1,4 +1,4 @@
-namespace MeteringApplication.Meter{
+namespace MeteringApplication.Models{
 
     public enum MeterTypeEnum{Monofásico,
                           Bifásico,
