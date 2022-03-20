@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git\\MeteringApplication\\MeteringApplication.csproj": {}
+    "D:\\Git\\MeteringApplication\\MeteringApplication.csproj": {}
   },
   "projects": {
-    "C:\\git\\MeteringApplication\\MeteringApplication.csproj": {
+    "D:\\Git\\MeteringApplication\\MeteringApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\MeteringApplication\\MeteringApplication.csproj",
+        "projectUniqueName": "D:\\Git\\MeteringApplication\\MeteringApplication.csproj",
         "projectName": "MeteringApplication",
-        "projectPath": "C:\\git\\MeteringApplication\\MeteringApplication.csproj",
-        "packagesPath": "C:\\Users\\anama\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\MeteringApplication\\obj\\",
+        "projectPath": "D:\\Git\\MeteringApplication\\MeteringApplication.csproj",
+        "packagesPath": "C:\\Users\\ELIZEU ANDRADE\\.nuget\\packages\\",
+        "outputPath": "D:\\Git\\MeteringApplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\anama\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ELIZEU ANDRADE\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -38,6 +38,28 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlserver": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.28, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"

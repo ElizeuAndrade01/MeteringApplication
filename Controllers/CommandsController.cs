@@ -8,7 +8,11 @@ namespace MeteringApplication.Controllers{
     [ApiController]
     public class CommandsController : ControllerBase{
         
-        private readonly MockCommandsRepo _repository = new MockCommandsRepo(); 
+        private readonly ICommanderRepo _repository; 
+
+        public CommandsController(ICommanderRepo repository){
+            _repository = repository;
+        }
 
         [HttpGet]
         public ActionResult<IEnumerable<Command>> GetAllCommands(){
