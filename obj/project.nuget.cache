@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Jdi+fYPH6ydrnrim2ryjomocqxAMGGKRLGfG1TZjNqkBrkiXaAQ9GcajPV1UwDjcsjzIaeF51GTZri3CaZoDjg==",
+  "dgSpecHash": "KfNOfWECiRCnnDMSL2CeCDdBgBJLnYMvlk4hj4nXR2NCySENXKm3JJtQW6pjVQ32YQ9V+N99e7OwxoKuRSqdGg==",
   "success": true,
   "projectFilePath": "D:\\Git\\MeteringApplication\\MeteringApplication.csproj",
   "expectedPackageFiles": [
@@ -44,6 +44,8 @@
     "C:\\Users\\ELIZEU ANDRADE\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\ELIZEU ANDRADE\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\ELIZEU ANDRADE\\.nuget\\packages\\mysql.data\\8.0.28\\mysql.data.8.0.28.nupkg.sha512",
+    "C:\\Users\\ELIZEU ANDRADE\\.nuget\\packages\\mysqlconnector\\2.1.2\\mysqlconnector.2.1.2.nupkg.sha512",
+    "C:\\Users\\ELIZEU ANDRADE\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\6.0.1\\pomelo.entityframeworkcore.mysql.6.0.1.nupkg.sha512",
     "C:\\Users\\ELIZEU ANDRADE\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.6\\sqlitepclraw.bundle_e_sqlite3.2.0.6.nupkg.sha512",
     "C:\\Users\\ELIZEU ANDRADE\\.nuget\\packages\\sqlitepclraw.core\\2.0.6\\sqlitepclraw.core.2.0.6.nupkg.sha512",
     "C:\\Users\\ELIZEU ANDRADE\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.6\\sqlitepclraw.lib.e_sqlite3.2.0.6.nupkg.sha512",
